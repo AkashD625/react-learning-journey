@@ -1,0 +1,56 @@
+h1 {
+  font-weight: 700;
+  font-size: xx-large;
+  margin-bottom: 0px;
+  color: rgb(255, 255, 255);
+  font-style: oblique;
+}
+p {
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(239, 0, 0);
+  margin-bottom: 30px;
+}
+.ak-row {
+  margin: 10px;
+  text-align: left;
+}
+input {
+  color: rgb(25, 0, 254);
+  width: 80%;
+  height: 100%;
+  border: none;
+  border-bottom: 1px solid black;
+  border-radius: 5px;
+  font-weight: 500;
+}
+input:hover {
+  border: none;
+  transition: 0.6s;
+  border: 2px lightgoldenrodyellow;
+  box-shadow: 2px 2px 10px rgb(114, 114, 114);
+}
+
+button {
+  min-width: 80px;
+
+  color: aliceblue;
+  border: 20px black;
+}
+button:hover {
+  border-radius: 2px solid black;
+  font-size: 1.2rem;
+  transition: 0.6s;
+}
+
+.main-ak {
+  margin: 20px;
+}
+.ak-contain {
+  color: rgb(160, 120, 0);
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+img {
+  width: 20px;
+}

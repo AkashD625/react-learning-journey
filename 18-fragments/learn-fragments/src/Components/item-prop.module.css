@@ -1,0 +1,11 @@
+/* CSS Modules in react 
+The module name is related to component , the one conponemt should have their css module file 
+Name - of the file starts like - component name.module.css and it shoild be import like "import styles from "./complete_file_name" "  
+- and it is used as  className={styles["name"]} */
+/* 
+
+* css modules are very use full in css becouse they add some values at  the end of the property name such as .property_name_somerandomvalue */
+
+.ak-code {
+  font-style: italic;
+}
